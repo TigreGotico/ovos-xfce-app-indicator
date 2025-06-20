@@ -2,6 +2,8 @@
 
 A simple system tray application for **OpenVoiceOS** that visually reflects the assistant’s current status and allows quick interaction through a menu. Built with Python, GTK3, and AppIndicator3.
 
+![image](https://github.com/user-attachments/assets/c6b7b884-f4e9-4af5-9415-9b292549bbd3)
+
 ---
 
 ## Features
