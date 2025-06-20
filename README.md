@@ -33,10 +33,3 @@ A simple system tray application for **OpenVoiceOS** that visually reflects the 
 * Use the tray menu to control OpenVoiceOS or send text commands.
 * Press **Quit** in the menu or `Ctrl+C` in the terminal to exit.
 
-
----
-
-## License
-
-MIT License © Your Name
-
